@@ -1,7 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Happy Birthday</string>
-    <string name="happy_birthday_sam">Happy Birthday, Sam!</string>
-    <string name="from_emma">From Emma</string>
-    <string name="muffin">muffin</string>
-    <string name="click_me">Click me</string>
+    <string name="app_name">Your App Name</string>
+    <string name="thank_you">Thank you</string>
 </resources>
